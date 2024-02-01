@@ -1,0 +1,16 @@
+body{
+background-color: antiquewhite;
+}
+.pagla{
+    border: 5px solid red;
+    border-radius: 20px;
+    margin: 2px;
+    
+    width: 30%;
+    height: 100px;
+    float: left;
+    
+}
+h3 , p{
+    text-align: center;
+}
